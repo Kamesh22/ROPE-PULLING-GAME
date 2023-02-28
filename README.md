@@ -2,6 +2,7 @@
 Aim of this project is to bring back our childhood game Rope pulling into the  modern world in the form of game application. 
 
 Game Modules:
+
 ➢ Welcome Module: This will be the homepage of the game.
 
 ➢ Choose mode: It has two modes. There are,
